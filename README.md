@@ -45,6 +45,8 @@ This analysis supports **strategic planning decisions**, not real-time optimizat
 
 # Analysis
 
+![UK precipitation dashboard](assets/UK_marketing_compaign_dashboard.png)
+
 ---
 
 ## Question 1 – Which months show the highest average precipitation?
@@ -178,8 +180,6 @@ Through this project, I strengthened my ability to translate environmental data 
 - I learned how to structure insights for stakeholders rather than just presenting charts.
 
 This project demonstrates how data can guide strategic marketing allocation using structured analysis and clear reasoning.
-
-![UK precipitation dashboard](assets/UK_marketing_compaign_dashboard.png)
 
 ---
 
